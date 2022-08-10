@@ -174,7 +174,7 @@ h3{
     padding-top: 50px;
 }
 .campus-col {
-    flex-basis:  32%;
+    flex-basis:  49%;
     border-radius: 10px;
     margin-bottom: 30px;
     position: relative;
@@ -226,7 +226,7 @@ h3{
     padding-top:100px;
 }
 .collab-col {
-  flex-basis: 31px;
+  flex-basis: 31%;
   border-radius:10px;
   margin-bottom:5%;
   text-align:center;
